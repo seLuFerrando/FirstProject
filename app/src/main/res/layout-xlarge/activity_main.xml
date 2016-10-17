@@ -21,7 +21,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
         android:textColor="@android:color/white"
-        android:textSize="42sp" />
+        android:textSize="86sp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -31,5 +31,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"
-        android:background="@android:color/transparent" />
+        android:background="@android:color/transparent"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp" />
 </RelativeLayout>

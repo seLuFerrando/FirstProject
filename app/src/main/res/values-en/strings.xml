@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button">Enter</string>
+    <string name="text_layout">Welcome</string>
+</resources>
